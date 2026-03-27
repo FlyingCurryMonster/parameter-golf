@@ -10,3 +10,4 @@ data/docs_selected.jsonl
 .venv
 logs/
 parameter-golf.code-workspace
+bash_scripts/output_logs

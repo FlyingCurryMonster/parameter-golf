@@ -11,4 +11,4 @@ TRAIN_BATCH_TOKENS=8192 \
 VAL_LOSS_EVERY=0 \
 VAL_BATCH_SIZE=8192 \
 # "$python_bin" "$repo_root/train_gpt_mlx.py"
-# "$python_bin" "$repo_root/train_gpt_mlx.py"
+"$python_bin" "$repo_root/train_gpt.py"

@@ -11,3 +11,4 @@ data/docs_selected.jsonl
 logs/
 parameter-golf.code-workspace
 bash_scripts/output_logs
+notes.md

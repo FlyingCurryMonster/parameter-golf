@@ -12,3 +12,5 @@ logs/
 parameter-golf.code-workspace
 bash_scripts/output_logs
 notes.md
+final_model.int8.ptz
+final_model.pt
